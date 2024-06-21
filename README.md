@@ -3,7 +3,7 @@
 1.Create an new folder on your file explore - PLPBasicGit_Assignment
 
 2. On the folder create a .txt file (hello.txt)
-[Link Text](https://github.com/keiley411/PLPBasicGitAssignment/blob/master/images/.txt%20file.png)
+![alt text](https://github.com/keiley411/PLPBasicGitAssignment/blob/master/images/.txt%20file.png)
 
 4. On the terminal initialize git repository
      git init
@@ -20,5 +20,5 @@
 8. Push changes to the Github reposittory
     git push -u origin master
 
-[Link Text](https://github.com/keiley411/PLPBasicGitAssignment/blob/master/images/hello.png)
-[Link Text](https://github.com/keiley411/PLPBasicGitAssignment/blob/master/images/github.png)
+![alt text](https://github.com/keiley411/PLPBasicGitAssignment/blob/master/images/hello.png)
+![alt text](https://github.com/keiley411/PLPBasicGitAssignment/blob/master/images/github.png)
